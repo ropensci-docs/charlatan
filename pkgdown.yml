@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  charlatan: charlatan.html
+  contributing: contributing.html
+last_built: 2021-07-12T19:26Z
+urls:
+  reference: https://docs.ropensci.org/charlatan/reference
+  article: https://docs.ropensci.org/charlatan/articles
+

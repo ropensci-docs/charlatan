@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "75173f40f270033858f7b8807cc33bc3f1bad996",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-02-26 17:34:30",
+    "files": 2,
+    "merge": false,
+    "message": "update address manual file for last PR and bump dev version for same rason\n"
+  },
+  "remote": "https://github.com/ropensci/charlatan",
+  "pkg": "charlatan"
+}
