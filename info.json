@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5ed2ed59fa83b28f44370e634932e82e38ea4b3a",
+    "author": "Roel Hogervorst <RMHogervorst@users.noreply.github.com>",
+    "time": "2023-10-21 20:47:40",
+    "files": 369,
+    "merge": true,
+    "message": "Merge pull request #130 from ropensci/feat/rearrange_locale\n\nInherit from providers in stead of dynamic loading"
+  },
+  "repo": "https://github.com/ropensci/charlatan",
+  "pkg": "charlatan"
+}
