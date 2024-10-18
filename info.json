@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "15737c759846effc9790818d5a5ae440a8a34b96",
+    "author": "Roel M. Hogervorst <hogervorst.rm@gmail.com>",
+    "time": "2024-10-18 10:42:15",
+    "files": 1,
+    "merge": false,
+    "message": "modify news so it matches standard markdown\n"
+  },
+  "repo": "https://github.com/ropensci/charlatan",
+  "pkg": "charlatan"
+}

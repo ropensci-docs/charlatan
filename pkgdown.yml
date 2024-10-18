@@ -1,0 +1,11 @@
+pandoc: 3.2.1
+pkgdown: 2.1.0
+pkgdown_sha: ~
+articles:
+  charlatan: charlatan.html
+  contributing: contributing.html
+  creating-realistic-data: creating-realistic-data.html
+last_built: 2024-10-18T11:13Z
+urls:
+  reference: https://docs.ropensci.org/charlatan/reference
+  article: https://docs.ropensci.org/charlatan/articles
