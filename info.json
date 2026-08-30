@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "30076e7066e7cdfadc389590106a8b3da327f2a6",
+    "author": "Roel Hogervorst <RMHogervorst@users.noreply.github.com>",
+    "time": "2026-01-15T20:01:47Z",
+    "files": 32,
+    "merge": false,
+    "message": "update package to fix issue in Norway phone provider (#149)\n\n* update docs\n\n* removed double norway\n\n* Make the two norways unique?\n\n* a deeper check revealed a duplication\n\n* also revdep check"
+  },
+  "repo": "https://github.com/ropensci/charlatan",
+  "pkg": "charlatan",
+  "time": "2026-08-30T07:26:07Z"
+}
