@@ -1,0 +1,412 @@
+# Package index
+
+## All functions
+
+- [`AddressProvider`](https://docs.ropensci.org/charlatan/reference/AddressProvider.md)
+  : AddressProvider
+- [`AddressProvider_en_GB`](https://docs.ropensci.org/charlatan/reference/AddressProvider_en_GB.md)
+  : AddressProvider for English, Great Britain
+- [`AddressProvider_en_NZ`](https://docs.ropensci.org/charlatan/reference/AddressProvider_en_NZ.md)
+  : AddressProvider for New-Zealand
+- [`AddressProvider_en_US`](https://docs.ropensci.org/charlatan/reference/AddressProvider_en_US.md)
+  : AddressProvider for United States of America
+- [`AddressProvider_nl_NL`](https://docs.ropensci.org/charlatan/reference/AddressProvider_nl_NL.md)
+  : AddressProvider for The Netherlands
+- [`BareProvider`](https://docs.ropensci.org/charlatan/reference/BareProvider.md)
+  : A NonLocalized Provider that contains all the selection and creation
+  elements, but not the locales. That way we can still inherit an do
+  useful stuff for providers that have no locale.
+- [`BaseProvider`](https://docs.ropensci.org/charlatan/reference/BaseProvider.md)
+  : BaseProvider
+- [`ColorProvider`](https://docs.ropensci.org/charlatan/reference/ColorProvider.md)
+  : ColorProvider
+- [`ColorProvider_en_US`](https://docs.ropensci.org/charlatan/reference/ColorProvider_en_US.md)
+  : ColorProvider
+- [`ColorProvider_uk_UA`](https://docs.ropensci.org/charlatan/reference/ColorProvider_uk_UA.md)
+  : ColorProvider Ukrainian (Ukraine)
+- [`CompanyProvider`](https://docs.ropensci.org/charlatan/reference/CompanyProvider.md)
+  : CompanyProvider
+- [`CompanyProvider_bg_BG`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_bg_BG.md)
+  : CompanyProvider for Bulgarian (Bulgaria)
+- [`CompanyProvider_cs_CZ`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_cs_CZ.md)
+  : CompanyProvider for Czech
+- [`CompanyProvider_de_DE`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_de_DE.md)
+  : CompanyProvider for German (Germany)
+- [`CompanyProvider_en_US`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_en_US.md)
+  : CompanyProvider for English (United States)
+- [`CompanyProvider_es_MX`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_es_MX.md)
+  : CompanyProvider Spanish (Mexico)
+- [`CompanyProvider_fa_IR`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_fa_IR.md)
+  : CompanyProvider Persian (Iran)
+- [`CompanyProvider_fr_FR`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_fr_FR.md)
+  : CompanyProvider for France (French)
+- [`CompanyProvider_hr_HR`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_hr_HR.md)
+  : CompanyProvider Croatian (Croatia)
+- [`CompanyProvider_it_IT`](https://docs.ropensci.org/charlatan/reference/CompanyProvider_it_IT.md)
+  : CompanyProvider Italian (Italy)
+- [`DateTimeProvider`](https://docs.ropensci.org/charlatan/reference/DateTimeProvider.md)
+  : DateTimeProvider
+- [`ElementProvider_en_US`](https://docs.ropensci.org/charlatan/reference/ElementProvider_en_US.md)
+  : ElementProvider for USA
+- [`ElementProvider_nl_NL`](https://docs.ropensci.org/charlatan/reference/ElementProvider_nl_NL.md)
+  : ElementProvider for the Netherlands
+- [`FileProvider_en_US`](https://docs.ropensci.org/charlatan/reference/FileProvider_en_US.md)
+  : File Provider for United States English
+- [`ISBNProvider`](https://docs.ropensci.org/charlatan/reference/ISBNProvider.md)
+  : ISBNProvider
+- [`InternetProvider`](https://docs.ropensci.org/charlatan/reference/InternetProvider.md)
+  : InternetProvider
+- [`InternetProvider_bg_BG`](https://docs.ropensci.org/charlatan/reference/InternetProvider_bg_BG.md)
+  : Internet provider for Bulgarian (Bulgaria)
+- [`InternetProvider_cs_CZ`](https://docs.ropensci.org/charlatan/reference/InternetProvider_cs_CZ.md)
+  : Internet provider Czech
+- [`InternetProvider_de_DE`](https://docs.ropensci.org/charlatan/reference/InternetProvider_de_DE.md)
+  : Internet provider German (Germany)
+- [`InternetProvider_en_AU`](https://docs.ropensci.org/charlatan/reference/InternetProvider_en_AU.md)
+  : Internet provider English (Australia)
+- [`InternetProvider_en_NZ`](https://docs.ropensci.org/charlatan/reference/InternetProvider_en_NZ.md)
+  : Internet provider for New-Zealand
+- [`InternetProvider_en_US`](https://docs.ropensci.org/charlatan/reference/InternetProvider_en_US.md)
+  : Internet provider for United States
+- [`InternetProvider_fa_IR`](https://docs.ropensci.org/charlatan/reference/InternetProvider_fa_IR.md)
+  : Internet provider for Iran
+- [`InternetProvider_fr_FR`](https://docs.ropensci.org/charlatan/reference/InternetProvider_fr_FR.md)
+  : Internet provider for France
+- [`InternetProvider_hr_HR`](https://docs.ropensci.org/charlatan/reference/InternetProvider_hr_HR.md)
+  : Internet provider for Croatian (Croatia)
+- [`JobProvider`](https://docs.ropensci.org/charlatan/reference/JobProvider.md)
+  : JobProvider
+- [`JobProvider_da_DK`](https://docs.ropensci.org/charlatan/reference/JobProvider_da_DK.md)
+  : Job provider for Danish
+- [`JobProvider_en_US`](https://docs.ropensci.org/charlatan/reference/JobProvider_en_US.md)
+  : Job provider for United States
+- [`JobProvider_fa_IR`](https://docs.ropensci.org/charlatan/reference/JobProvider_fa_IR.md)
+  : Job provider for Iran (Persian)
+- [`JobProvider_fi_FI`](https://docs.ropensci.org/charlatan/reference/JobProvider_fi_FI.md)
+  : Job provider for Finnish
+- [`JobProvider_fr_CH`](https://docs.ropensci.org/charlatan/reference/JobProvider_fr_CH.md)
+  : Job provider for Zwitserland
+- [`JobProvider_fr_FR`](https://docs.ropensci.org/charlatan/reference/JobProvider_fr_FR.md)
+  : Job provider for France
+- [`JobProvider_hr_HR`](https://docs.ropensci.org/charlatan/reference/JobProvider_hr_HR.md)
+  : Job provider for Croatia
+- [`JobProvider_nl_NL`](https://docs.ropensci.org/charlatan/reference/JobProvider_nl_NL.md)
+  : Job provider for Netherlands
+- [`JobProvider_pl_PL`](https://docs.ropensci.org/charlatan/reference/JobProvider_pl_PL.md)
+  : Job provider for Poland
+- [`JobProvider_ru_RU`](https://docs.ropensci.org/charlatan/reference/JobProvider_ru_RU.md)
+  : Job provider for Russia
+- [`JobProvider_uk_UA`](https://docs.ropensci.org/charlatan/reference/JobProvider_uk_UA.md)
+  : Job provider for Ukraine
+- [`JobProvider_zh_TW`](https://docs.ropensci.org/charlatan/reference/JobProvider_zh_TW.md)
+  : Job provider for Taiwan
+- [`LoremProvider`](https://docs.ropensci.org/charlatan/reference/LoremProvider.md)
+  : LoremProvider
+- [`LoremProvider_ar_AA`](https://docs.ropensci.org/charlatan/reference/LoremProvider_ar_AA.md)
+  : Lorem provider Arabic
+- [`LoremProvider_el_GR`](https://docs.ropensci.org/charlatan/reference/LoremProvider_el_GR.md)
+  : Lorem provider Greek (Greece)
+- [`LoremProvider_en_US`](https://docs.ropensci.org/charlatan/reference/LoremProvider_en_US.md)
+  : Lorem provider English (USA)
+- [`LoremProvider_he_IL`](https://docs.ropensci.org/charlatan/reference/LoremProvider_he_IL.md)
+  : Lorem provider Hebrew
+- [`LoremProvider_ja_JP`](https://docs.ropensci.org/charlatan/reference/LoremProvider_ja_JP.md)
+  : Lorem provider Japanese
+- [`LoremProvider_la`](https://docs.ropensci.org/charlatan/reference/LoremProvider_la.md)
+  : Lorem provider Latin
+- [`LoremProvider_ru_RU`](https://docs.ropensci.org/charlatan/reference/LoremProvider_ru_RU.md)
+  : Lorem provider Russian (Russia)
+- [`LoremProvider_zh_CN`](https://docs.ropensci.org/charlatan/reference/LoremProvider_zh_CN.md)
+  : Lorem provider Chinese (China)
+- [`LoremProvider_zh_TW`](https://docs.ropensci.org/charlatan/reference/LoremProvider_zh_TW.md)
+  : Lorem provider Chinese (Taiwan)
+- [`PersonProvider`](https://docs.ropensci.org/charlatan/reference/PersonProvider.md)
+  : PersonProvider
+- [`PersonProvider_bg_BG`](https://docs.ropensci.org/charlatan/reference/PersonProvider_bg_BG.md)
+  : Person Provider for Bulgarian (Bulgaria)
+- [`PersonProvider_cs_CZ`](https://docs.ropensci.org/charlatan/reference/PersonProvider_cs_CZ.md)
+  : Person Provider for Czech (Czech Republic)
+- [`PersonProvider_da_DK`](https://docs.ropensci.org/charlatan/reference/PersonProvider_da_DK.md)
+  : Person Provider for Danish (Denmark)
+- [`PersonProvider_de_AT`](https://docs.ropensci.org/charlatan/reference/PersonProvider_de_AT.md)
+  : Person Provider for Austrian German
+- [`PersonProvider_de_DE`](https://docs.ropensci.org/charlatan/reference/PersonProvider_de_DE.md)
+  : Person Provider for German (Germany)
+- [`PersonProvider_en_GB`](https://docs.ropensci.org/charlatan/reference/PersonProvider_en_GB.md)
+  : Person Provider for English (Great Brittain)
+- [`PersonProvider_en_NZ`](https://docs.ropensci.org/charlatan/reference/PersonProvider_en_NZ.md)
+  : Person Provider for English (New Zealand)
+- [`PersonProvider_en_US`](https://docs.ropensci.org/charlatan/reference/PersonProvider_en_US.md)
+  : Person Provider for English (United States)
+- [`PersonProvider_es_ES`](https://docs.ropensci.org/charlatan/reference/PersonProvider_es_ES.md)
+  : Person Provider for Spanish (Spain)
+- [`PersonProvider_es_MX`](https://docs.ropensci.org/charlatan/reference/PersonProvider_es_MX.md)
+  : Person Provider for Spanish (Mexico)
+- [`PersonProvider_fa_IR`](https://docs.ropensci.org/charlatan/reference/PersonProvider_fa_IR.md)
+  : Person Provider for Farsi (Iran)
+- [`PersonProvider_fi_FI`](https://docs.ropensci.org/charlatan/reference/PersonProvider_fi_FI.md)
+  : Person Provider for Finnish (Finland)
+- [`PersonProvider_fr_CH`](https://docs.ropensci.org/charlatan/reference/PersonProvider_fr_CH.md)
+  : Person Provider for French (Switzerland)
+- [`PersonProvider_fr_FR`](https://docs.ropensci.org/charlatan/reference/PersonProvider_fr_FR.md)
+  : Person Provider for French (France)
+- [`PersonProvider_hr_HR`](https://docs.ropensci.org/charlatan/reference/PersonProvider_hr_HR.md)
+  : Person Provider for Croatian (Croatia)
+- [`PersonProvider_it_IT`](https://docs.ropensci.org/charlatan/reference/PersonProvider_it_IT.md)
+  : Person Provider for Italian (Italy)
+- [`PersonProvider_ja_JP`](https://docs.ropensci.org/charlatan/reference/PersonProvider_ja_JP.md)
+  : Person Provider for Japanese (Japan)
+- [`PersonProvider_ko_KR`](https://docs.ropensci.org/charlatan/reference/PersonProvider_ko_KR.md)
+  : Person Provider for Korean (Republic of Korea)
+- [`PersonProvider_lt_LT`](https://docs.ropensci.org/charlatan/reference/PersonProvider_lt_LT.md)
+  : Person Provider for Lithuanian (Lithuania)
+- [`PersonProvider_lv_LV`](https://docs.ropensci.org/charlatan/reference/PersonProvider_lv_LV.md)
+  : Person Provider for Latvian (Latvia)
+- [`PersonProvider_ne_NP`](https://docs.ropensci.org/charlatan/reference/PersonProvider_ne_NP.md)
+  : Person Provider for Nepali (Nepal)
+- [`PersonProvider_nl_NL`](https://docs.ropensci.org/charlatan/reference/PersonProvider_nl_NL.md)
+  : Person Provider for Dutch (Netherlands)
+- [`PersonProvider_no_NO`](https://docs.ropensci.org/charlatan/reference/PersonProvider_no_NO.md)
+  : Person Provider for Norwegian (Norway)
+- [`PersonProvider_pl_PL`](https://docs.ropensci.org/charlatan/reference/PersonProvider_pl_PL.md)
+  : Person Provider for Polish (Poland)
+- [`PhoneNumberProvider`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider.md)
+  : PhoneNumberProvider
+- [`PhoneNumberProvider_bg_BG`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_bg_BG.md)
+  : PhoneNumberProvider for Bulgaria
+- [`PhoneNumberProvider_bs_BA`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_bs_BA.md)
+  : PhoneNumberProvider for Bosnia and Herzegovina
+- [`PhoneNumberProvider_cs_CZ`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_cs_CZ.md)
+  : PhoneNumberProvider for Chechia
+- [`PhoneNumberProvider_da_DK`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_da_DK.md)
+  : PhoneNumberProvider for Denmark
+- [`PhoneNumberProvider_de_DE`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_de_DE.md)
+  : PhoneNumberProvider for Germany
+- [`PhoneNumberProvider_dk_DK`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_dk_DK.md)
+  : PhoneNumberProvider for Denmark
+- [`PhoneNumberProvider_el_GR`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_el_GR.md)
+  : PhoneNumberProvider for Greece
+- [`PhoneNumberProvider_en_AU`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_en_AU.md)
+  : PhoneNumberProvider for Australia
+- [`PhoneNumberProvider_en_CA`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_en_CA.md)
+  : PhoneNumberProvider for Canada
+- [`PhoneNumberProvider_en_GB`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_en_GB.md)
+  : PhoneNumberProvider for Great Britain
+- [`PhoneNumberProvider_en_NZ`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_en_NZ.md)
+  : PhoneNumberProvider for New Zealand
+- [`PhoneNumberProvider_en_US`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_en_US.md)
+  : PhoneNumberProvider for United States of America
+- [`PhoneNumberProvider_es_ES`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_es_ES.md)
+  : PhoneNumberProvider for Spain
+- [`PhoneNumberProvider_es_MX`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_es_MX.md)
+  : PhoneNumberProvider for Mexico
+- [`PhoneNumberProvider_es_PE`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_es_PE.md)
+  : PhoneNumberProvider for Peru
+- [`PhoneNumberProvider_fa_IR`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_fa_IR.md)
+  : PhoneNumberProvider for Iran
+- [`PhoneNumberProvider_fi_FI`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_fi_FI.md)
+  : PhoneNumberProvider for Finland
+- [`PhoneNumberProvider_fr_CH`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_fr_CH.md)
+  : PhoneNumberProvider for Switserland
+- [`PhoneNumberProvider_fr_FR`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_fr_FR.md)
+  : PhoneNumberProvider for France
+- [`PhoneNumberProvider_he_IL`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_he_IL.md)
+  : PhoneNumberProvider for Israel
+- [`PhoneNumberProvider_hi_IN`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_hi_IN.md)
+  : PhoneNumberProvider for India
+- [`PhoneNumberProvider_hr_HR`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_hr_HR.md)
+  : PhoneNumberProvider for Croatia
+- [`PhoneNumberProvider_hu_HU`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_hu_HU.md)
+  : PhoneNumberProvider for Hungary
+- [`PhoneNumberProvider_id_ID`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_id_ID.md)
+  : PhoneNumberProvider for Indonesia
+- [`PhoneNumberProvider_it_IT`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_it_IT.md)
+  : PhoneNumberProvider for Italy
+- [`PhoneNumberProvider_ja_JP`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_ja_JP.md)
+  : PhoneNumberProvider for Japan
+- [`PhoneNumberProvider_ko_KR`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_ko_KR.md)
+  : PhoneNumberProvider for Korean Republic
+- [`PhoneNumberProvider_lt_LT`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_lt_LT.md)
+  : PhoneNumberProvider for Lithuania
+- [`PhoneNumberProvider_lv_LV`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_lv_LV.md)
+  : PhoneNumberProvider for Latvia
+- [`PhoneNumberProvider_ne_NP`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_ne_NP.md)
+  : PhoneNumberProvider for Nepal
+- [`PhoneNumberProvider_nl_BE`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_nl_BE.md)
+  : PhoneNumberProvider for Belgium
+- [`PhoneNumberProvider_nl_NL`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_nl_NL.md)
+  : PhoneNumberProvider for the Netherlands
+- [`PhoneNumberProvider_nn_NO`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_nn_NO.md)
+  : PhoneNumberProvider for Norway (nn_NO)
+- [`PhoneNumberProvider_no_NO`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_no_NO.md)
+  : PhoneNumberProvider for Norway (no_NO)
+- [`PhoneNumberProvider_pl_PL`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_pl_PL.md)
+  : PhoneNumberProvider for Poland
+- [`PhoneNumberProvider_pt_BR`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_pt_BR.md)
+  : PhoneNumberProvider for Brazil
+- [`PhoneNumberProvider_pt_PT`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_pt_PT.md)
+  : PhoneNumberProvider for Portugal
+- [`PhoneNumberProvider_ru_RU`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_ru_RU.md)
+  : PhoneNumberProvider for Russia
+- [`PhoneNumberProvider_sk_SK`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_sk_SK.md)
+  : PhoneNumberProvider for Slovakia
+- [`PhoneNumberProvider_sv_SE`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_sv_SE.md)
+  : PhoneNumberProvider for Sweden
+- [`PhoneNumberProvider_th_TH`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_th_TH.md)
+  : PhoneNumberProvider for Thailand
+- [`PhoneNumberProvider_tr_TR`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_tr_TR.md)
+  : PhoneNumberProvider for Turkey
+- [`PhoneNumberProvider_uk_UA`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_uk_UA.md)
+  : PhoneNumberProvider for Ukraine
+- [`PhoneNumberProvider_zh_TW`](https://docs.ropensci.org/charlatan/reference/PhoneNumberProvider_zh_TW.md)
+  : PhoneNumberProvider for Taiwan
+- [`SSNProvider`](https://docs.ropensci.org/charlatan/reference/SSNProvider.md)
+  : SSNProvider
+- [`SSNProvider_en_US`](https://docs.ropensci.org/charlatan/reference/SSNProvider_en_US.md)
+  : SSNProvider United States
+- [`SSNProvider_nl_NL`](https://docs.ropensci.org/charlatan/reference/SSNProvider_nl_NL.md)
+  : SSNProvider the Netherlands
+- [`SequenceProvider`](https://docs.ropensci.org/charlatan/reference/SequenceProvider.md)
+  : SequenceProvider
+- [`TaxonomyProvider`](https://docs.ropensci.org/charlatan/reference/TaxonomyProvider.md)
+  : TaxonomyProvider
+- [`TaxonomyProvider_en_US`](https://docs.ropensci.org/charlatan/reference/TaxonomyProvider_en_US.md)
+  : TaxonomyProvider en_US
+- [`UserAgentProvider`](https://docs.ropensci.org/charlatan/reference/UserAgentProvider.md)
+  : UserAgentProvider
+- [`UserAgentProvider_en_US`](https://docs.ropensci.org/charlatan/reference/UserAgentProvider_en_US.md)
+  : UserAgentProvider for United States of America
+- [`arabic-language`](https://docs.ropensci.org/charlatan/reference/arabic-language.md)
+  : Arabic Language
+- [`available_locales_df`](https://docs.ropensci.org/charlatan/reference/available_locales_df.md)
+  : Available locales
+- [`available_providers`](https://docs.ropensci.org/charlatan/reference/available_providers.md)
+  : Available Providers
+- [`bosnian-language`](https://docs.ropensci.org/charlatan/reference/bosnian-language.md)
+  : Bosnian Language
+- [`bulgarian-language`](https://docs.ropensci.org/charlatan/reference/bulgarian-language.md)
+  : Bulgarian Language
+- [`ch_color_name()`](https://docs.ropensci.org/charlatan/reference/ch_color.md)
+  [`ch_safe_color_name()`](https://docs.ropensci.org/charlatan/reference/ch_color.md)
+  [`ch_hex_color()`](https://docs.ropensci.org/charlatan/reference/ch_color.md)
+  [`ch_safe_hex_color()`](https://docs.ropensci.org/charlatan/reference/ch_color.md)
+  [`ch_rgb_color()`](https://docs.ropensci.org/charlatan/reference/ch_color.md)
+  [`ch_rgb_css_color()`](https://docs.ropensci.org/charlatan/reference/ch_color.md)
+  : Create fake colors
+- [`ch_company()`](https://docs.ropensci.org/charlatan/reference/ch_company.md)
+  : Create fake company names and other company bits
+- [`ch_credit_card_provider()`](https://docs.ropensci.org/charlatan/reference/ch_credit.md)
+  [`ch_credit_card_number()`](https://docs.ropensci.org/charlatan/reference/ch_credit.md)
+  [`ch_credit_card_security_code()`](https://docs.ropensci.org/charlatan/reference/ch_credit.md)
+  : Create fake credit card data
+- [`ch_currency()`](https://docs.ropensci.org/charlatan/reference/ch_currency.md)
+  : Create fake currencies
+- [`ch_doi()`](https://docs.ropensci.org/charlatan/reference/ch_doi.md)
+  : Create fake DOIs (Digital Object Identifiers)
+- [`ch_gene_sequence()`](https://docs.ropensci.org/charlatan/reference/ch_gene_sequence.md)
+  : Create fake gene sequences
+- [`ch_generate()`](https://docs.ropensci.org/charlatan/reference/ch_generate.md)
+  : Generate a fake dataset
+- [`ch_job()`](https://docs.ropensci.org/charlatan/reference/ch_job.md)
+  : Create fake jobs
+- [`ch_missing()`](https://docs.ropensci.org/charlatan/reference/ch_missing.md)
+  : Create missing data
+- [`ch_name()`](https://docs.ropensci.org/charlatan/reference/ch_name.md)
+  : Create fake person names
+- [`ch_phone_number()`](https://docs.ropensci.org/charlatan/reference/ch_phone_number.md)
+  : Create fake phone numbers
+- [`ch_ssn()`](https://docs.ropensci.org/charlatan/reference/ch_ssn.md)
+  : Create fake Social Security Numbers
+- [`charlatan-package`](https://docs.ropensci.org/charlatan/reference/charlatan-package.md)
+  [`charlatan`](https://docs.ropensci.org/charlatan/reference/charlatan-package.md)
+  : charlatan
+- [`charlatan_locales()`](https://docs.ropensci.org/charlatan/reference/charlatan_locales.md)
+  : Available locales
+- [`charlatan_settings()`](https://docs.ropensci.org/charlatan/reference/charlatan_settings.md)
+  : charlatan settings
+- [`chinese-language`](https://docs.ropensci.org/charlatan/reference/chinese-language.md)
+  : Chinese Language
+- [`ch_lon()`](https://docs.ropensci.org/charlatan/reference/coordinates.md)
+  [`ch_lat()`](https://docs.ropensci.org/charlatan/reference/coordinates.md)
+  [`ch_position()`](https://docs.ropensci.org/charlatan/reference/coordinates.md)
+  : Create fake coordinates
+- [`croatian-language`](https://docs.ropensci.org/charlatan/reference/croatian-language.md)
+  : Croatian Language
+- [`czech-language`](https://docs.ropensci.org/charlatan/reference/czech-language.md)
+  : Czech Language
+- [`danish-language`](https://docs.ropensci.org/charlatan/reference/danish-language.md)
+  : Danish Language
+- [`ch_timezone()`](https://docs.ropensci.org/charlatan/reference/date_time.md)
+  [`ch_unix_time()`](https://docs.ropensci.org/charlatan/reference/date_time.md)
+  [`ch_date_time()`](https://docs.ropensci.org/charlatan/reference/date_time.md)
+  : Create dates and times
+- [`dutch-language`](https://docs.ropensci.org/charlatan/reference/dutch-language.md)
+  : Dutch Language
+- [`ch_element_symbol()`](https://docs.ropensci.org/charlatan/reference/elements.md)
+  [`ch_element_element()`](https://docs.ropensci.org/charlatan/reference/elements.md)
+  : Get elements
+- [`english-language`](https://docs.ropensci.org/charlatan/reference/english-language.md)
+  : English Language
+- [`farsi-language`](https://docs.ropensci.org/charlatan/reference/farsi-language.md)
+  : Farsi Language
+- [`finnish-language`](https://docs.ropensci.org/charlatan/reference/finnish-language.md)
+  : Finnish Language
+- [`fraudster()`](https://docs.ropensci.org/charlatan/reference/fraudster.md)
+  : Fraudster - catch all client to make all types of fake data
+- [`french-language`](https://docs.ropensci.org/charlatan/reference/french-language.md)
+  : French Language
+- [`german-language`](https://docs.ropensci.org/charlatan/reference/german-language.md)
+  : German Language
+- [`greek-language`](https://docs.ropensci.org/charlatan/reference/greek-language.md)
+  : Greek Language
+- [`hebrew-language`](https://docs.ropensci.org/charlatan/reference/hebrew-language.md)
+  : Hebrew Language
+- [`hindi-language`](https://docs.ropensci.org/charlatan/reference/hindi-language.md)
+  : Hindi Language
+- [`hungarian-language`](https://docs.ropensci.org/charlatan/reference/hungarian-language.md)
+  : Hungarian Language
+- [`indonesian-language`](https://docs.ropensci.org/charlatan/reference/indonesian-language.md)
+  : Indonesian Language
+- [`italian-language`](https://docs.ropensci.org/charlatan/reference/italian-language.md)
+  : Italian Language
+- [`japanese-language`](https://docs.ropensci.org/charlatan/reference/japanese-language.md)
+  : Japanese Language
+- [`korean-language`](https://docs.ropensci.org/charlatan/reference/korean-language.md)
+  : Korean Language
+- [`latin-language`](https://docs.ropensci.org/charlatan/reference/latin-language.md)
+  : Latin Language
+- [`latvian-language`](https://docs.ropensci.org/charlatan/reference/latvian-language.md)
+  : Latvian Language
+- [`lithuanian-language`](https://docs.ropensci.org/charlatan/reference/lithuanian-language.md)
+  : Lithuanian Language
+- [`norwegian-language`](https://docs.ropensci.org/charlatan/reference/norwegian-language.md)
+  : Norwegian Language
+- [`ch_double()`](https://docs.ropensci.org/charlatan/reference/numerics.md)
+  [`ch_integer()`](https://docs.ropensci.org/charlatan/reference/numerics.md)
+  [`ch_unif()`](https://docs.ropensci.org/charlatan/reference/numerics.md)
+  [`ch_norm()`](https://docs.ropensci.org/charlatan/reference/numerics.md)
+  [`ch_lnorm()`](https://docs.ropensci.org/charlatan/reference/numerics.md)
+  [`ch_beta()`](https://docs.ropensci.org/charlatan/reference/numerics.md)
+  : Create numbers
+- [`polish-language`](https://docs.ropensci.org/charlatan/reference/polish-language.md)
+  : Polish Language
+- [`portuguese-language`](https://docs.ropensci.org/charlatan/reference/portuguese-language.md)
+  : Portuguese Language
+- [`russian-language`](https://docs.ropensci.org/charlatan/reference/russian-language.md)
+  : Russian Language
+- [`spanish-language`](https://docs.ropensci.org/charlatan/reference/spanish-language.md)
+  : Spanish Language
+- [`subclass()`](https://docs.ropensci.org/charlatan/reference/subclass.md)
+  : Create Localized Provider
+- [`swedish-language`](https://docs.ropensci.org/charlatan/reference/swedish-language.md)
+  : Swedish Language
+- [`ch_taxonomic_genus()`](https://docs.ropensci.org/charlatan/reference/taxonomy.md)
+  [`ch_taxonomic_epithet()`](https://docs.ropensci.org/charlatan/reference/taxonomy.md)
+  [`ch_taxonomic_species()`](https://docs.ropensci.org/charlatan/reference/taxonomy.md)
+  : Create fake taxonomic names
+- [`thai-language`](https://docs.ropensci.org/charlatan/reference/thai-language.md)
+  : Thai Language
+- [`turkish-language`](https://docs.ropensci.org/charlatan/reference/turkish-language.md)
+  : Turkish Language
+- [`ukrainian-language`](https://docs.ropensci.org/charlatan/reference/ukrainian-language.md)
+  : Ukrainian Language

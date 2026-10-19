@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4bafd8985256138fb97c30bd99e7ea47488a1a03",
+    "author": "Joash Joshua Ayo <joashjoshua789@gmail.com>",
+    "time": "2026-10-19T14:54:16Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #151 from ropensci/josh45-source-patch-1\n\nChange maintainer"
+  },
+  "repo": "https://github.com/ropensci/charlatan",
+  "pkg": "charlatan",
+  "time": "2026-10-19T16:17:24Z"
+}
